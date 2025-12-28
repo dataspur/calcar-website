@@ -1,0 +1,14 @@
+<svg viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .logo-gold { fill: #c5b358; }
+    </style>
+  </defs>
+  <!-- Arrow pointing up-right -->
+  <path class="logo-gold" d="M 200 700 L 500 400 L 500 500 L 800 200 L 900 300 L 600 600 L 600 500 L 300 800 Z"/>
+  <!-- J curve -->
+  <path class="logo-gold" d="M 720 650 L 720 900 Q 720 950 670 950 L 450 950 Q 400 950 400 900 L 400 850 Q 400 800 450 800 L 500 800 Q 550 800 550 850 L 550 870"/>
+  <!-- Gear/cog -->
+  <circle class="logo-gold" cx="850" cy="1050" r="80" fill="none" stroke="#c5b358" stroke-width="40"/>
+  <path class="logo-gold" d="M 850 950 L 850 920 M 950 1050 L 980 1050 M 850 1150 L 850 1180 M 750 1050 L 720 1050 M 900 1000 L 920 980 M 900 1100 L 920 1120 M 800 1100 L 780 1120 M 800 1000 L 780 980"/>
+</svg>
